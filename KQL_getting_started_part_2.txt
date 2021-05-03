@@ -1,0 +1,51 @@
+SecurityEvent | summarize by Activity
+SecurityEvent
+| where EventID == "4688"
+| summarize count() by Process, Computer
+
+SecurityEvent
+| where TimeGenerated > ago(1h)
+| where EventID == 4624
+| summarize cnt=count() by AccountType, Computer
+
+SecurityEvent
+| summarize dcount(IpAddress)
+
+let timeframe = 1d;
+let threshold = 3;
+SigninLogs
+| where TimeGenerated >= ago(timeframe)
+| where ResultType == "50057"
+| where ResultDescription =~ "User account is disabled. The account has been disabled by an administrator."
+| summarize applicationCount = dcount(AppDisplayName) by UserPrincipalName, IPAddress
+| where applicationCount >= threshold
+
+SecurityEvent 
+| where Computer == "SQL12.na.contosohotels.com"
+| summarize arg_max(TimeGenerated,*) by Computer
+
+SecurityEvent 
+| where Computer == "SQL12.na.contosohotels.com"
+| summarize arg_min(TimeGenerated,*) by Computer
+
+// Statement 1
+SecurityEvent
+| summarize arg_max(TimeGenerated, *) by Account
+| where EventID == "4624"
+
+// Statement 2
+SecurityEvent
+| where EventID == "4624"
+| summarize arg_max(TimeGenerated, *) by Account
+
+SecurityEvent
+| where EventID == "4624"
+| summarize make_list(Account) by Computer
+
+SecurityEvent 
+| summarize count() by Account
+| render barchart
+
+SecurityEvent 
+| summarize count() by bin(TimeGenerated, 1d) 
+| render timechart
