@@ -1,3 +1,6 @@
 https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint?view=o365-worldwide
 
 https://docs.microsoft.com/en-us/windows/client-management/mdm/understanding-admx-backed-policies
+
+http://info.microsoft.com/rs/157-GQE-382/images/Defense_In_Depth_Enterprise%20Mobility_and_Security_61517.pdf
+
