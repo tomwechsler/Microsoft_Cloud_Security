@@ -4,3 +4,4 @@ https://docs.microsoft.com/en-us/windows/client-management/mdm/understanding-adm
 
 http://info.microsoft.com/rs/157-GQE-382/images/Defense_In_Depth_Enterprise%20Mobility_and_Security_61517.pdf
 
+https://docs.microsoft.com/en-us/azure/sentinel/hunting
