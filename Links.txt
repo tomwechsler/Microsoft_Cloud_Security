@@ -5,3 +5,9 @@ https://docs.microsoft.com/en-us/windows/client-management/mdm/understanding-adm
 http://info.microsoft.com/rs/157-GQE-382/images/Defense_In_Depth_Enterprise%20Mobility_and_Security_61517.pdf
 
 https://docs.microsoft.com/en-us/azure/sentinel/hunting
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/run-advanced-query-sample-powershell?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-query-language?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-query-emails-devices?view=o365-worldwide
