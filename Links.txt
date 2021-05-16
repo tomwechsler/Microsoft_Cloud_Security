@@ -13,3 +13,5 @@ https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-huntin
 https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-query-emails-devices?view=o365-worldwide
 
 https://docs.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns
+
+https://docs.microsoft.com/de-de/security/cybersecurity-reference-architecture/mcra
