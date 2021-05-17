@@ -15,3 +15,13 @@ https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-huntin
 https://docs.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns
 
 https://docs.microsoft.com/de-de/security/cybersecurity-reference-architecture/mcra
+
+https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/terms-of-use
+
+https://docs.microsoft.com/en-us/azure/active-directory/external-identities/tutorial-bulk-invite
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/block-legacy-authentication
