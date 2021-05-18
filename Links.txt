@@ -25,3 +25,11 @@ https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/terms
 https://docs.microsoft.com/en-us/azure/active-directory/external-identities/tutorial-bulk-invite
 
 https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/block-legacy-authentication
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sso-quick-start
+
+https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/add-application-portal-configure
+
+https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-start-security-review
+
+https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/directory-self-service-signup
