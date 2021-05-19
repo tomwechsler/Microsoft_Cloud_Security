@@ -33,3 +33,9 @@ https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/add-applicat
 https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-start-security-review
 
 https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/directory-self-service-signup
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-access-package-create
+
+https://docs.microsoft.com/en-us/cloud-app-security/proxy-intro-aad
