@@ -39,3 +39,23 @@ https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-p
 https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-access-package-create
 
 https://docs.microsoft.com/en-us/cloud-app-security/proxy-intro-aad
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-change-the-configuration
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/access-reviews-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-session#application-enforced-restrictions
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-deployment
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-change-the-configuration
+
+https://docs.microsoft.com/en-us/azure/active-directory/external-identities/one-time-passcode#when-does-a-guest-user-get-a-one-time-passcode
+
+https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-add-role-to-user?tabs=new
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-external-users
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-remediate-unblock
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/terms-of-use
