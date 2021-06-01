@@ -17,3 +17,17 @@ https://docs.microsoft.com/en-us/microsoft-365/compliance/classifier-learn-about
 https://docs.microsoft.com/en-us/microsoft-365/compliance/apply-sensitivity-label-automatically?view=o365-worldwide
 
 https://docs.microsoft.com/en-us/azure/information-protection/deploy-aip-scanner
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/retention?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/endpoint-dlp-getting-started?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/cloud-app-security/dcs-inspection
+
+https://docs.microsoft.com/en-us/cloud-app-security/data-protection-policies
+
+https://docs.microsoft.com/en-us/cloud-app-security/webinars#on-demand-webinars
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/ome?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/classifier-get-started-with?view=o365-worldwide
