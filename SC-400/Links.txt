@@ -45,3 +45,11 @@ https://docs.microsoft.com/en-us/microsoft-365/compliance/record-versioning?view
 https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center?view=o365-worldwide
 
 https://docs.microsoft.com/en-us/microsoft-365/compliance/event-driven-retention?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/create-apply-retention-labels?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies#removing-or-deleting-a-retention-tag-from-a-retention-policy
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/recover-an-inactive-mailbox?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/powershell/module/exchange/set-retentioncompliancepolicy?view=exchange-ps
