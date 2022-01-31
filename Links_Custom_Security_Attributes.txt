@@ -1,0 +1,11 @@
+https://docs.microsoft.com/en-us/azure/role-based-access-control/conditions-custom-security-attributes
+
+https://docs.microsoft.com/en-us/azure/role-based-access-control/conditions-overview
+
+https://docs.microsoft.com/en-us/azure/role-based-access-control/conditions-format
+
+https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-abac-attributes
+
+https://docs.microsoft.com/en-us/azure/role-based-access-control/conditions-troubleshoot
+
+https://docs.microsoft.com/en-us/azure/role-based-access-control/conditions-role-assignments-portal
