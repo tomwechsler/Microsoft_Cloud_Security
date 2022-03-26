@@ -1,4 +1,4 @@
-Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure
+Microsoft Certified: Security Operations Analyst Associate
 -------------------
 https://docs.microsoft.com/en-us/learn/certifications/security-operations-analyst/
 
