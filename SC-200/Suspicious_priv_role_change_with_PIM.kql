@@ -1,0 +1,15 @@
+AuditLogs
+| where Category =~ "RoleManagement"
+| where AADOperationType in ("Assign", "AssignEligibleRole")
+| where ActivityDisplayName has_any ("Add eligible member to role", "Add member to role")
+| mv-expand TargetResources
+| mv-expand TargetResources.modifiedProperties
+| extend displayName_ = tostring(TargetResources_modifiedProperties.displayName)
+| where displayName_ =~ "Role.DisplayName"
+| extend RoleName = tostring(parse_json(tostring(TargetResources_modifiedProperties.newValue)))
+| where RoleName contains "Admin"
+| extend InitiatingApp = tostring(parse_json(tostring(InitiatedBy.app)).displayName)
+| extend Initiator = iif(isnotempty(InitiatingApp), InitiatingApp, tostring(parse_json(tostring(InitiatedBy.user)).userPrincipalName))
+| extend Target = tostring(TargetResources.userPrincipalName)
+| summarize by bin(TimeGenerated, 1h), OperationName,  RoleName, Target, Initiator, Result
+| extend AccountCustomEntity = Target
