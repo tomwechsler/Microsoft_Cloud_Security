@@ -1,3 +1,21 @@
+Microsoft Certified: Information Protection Administrator Associate
+-------------------
+https://docs.microsoft.com/en-us/learn/certifications/information-protection-administrator/
+
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp6
+
+Microsoft Learn:
+-------------------
+
+https://docs.microsoft.com/en-us/learn/paths/implement-information-protection/
+
+https://docs.microsoft.com/en-us/learn/paths/implement-data-loss-prevention/
+
+https://docs.microsoft.com/en-us/learn/paths/implement-information-governance/
+
+More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
+-------------------
+
 https://docs.microsoft.com/en-us/cloud-app-security/getting-started-with-cloud-app-security
 
 https://docs.microsoft.com/en-us/cloud-app-security/data-protection-policies
