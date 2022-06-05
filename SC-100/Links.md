@@ -5,7 +5,7 @@ https://docs.microsoft.com/en-us/learn/certifications/cybersecurity-architect-ex
 
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWVbXN
 
-Completion of a prerequisite (otherwise you will not receive the certificate for the SC-100):
+Completion of a prerequisite exam (otherwise you will not receive the certificate for the SC-100):
 --------------------------
 
 https://docs.microsoft.com/en-us/learn/certifications/security-operations-analyst/
