@@ -5,6 +5,17 @@ https://docs.microsoft.com/en-us/learn/certifications/cybersecurity-architect-ex
 
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWVbXN
 
+Complete one prerequisite:
+--------------------------
+
+https://docs.microsoft.com/en-us/learn/certifications/security-operations-analyst/
+
+https://docs.microsoft.com/en-us/learn/certifications/identity-and-access-administrator/
+
+https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer/
+
+https://docs.microsoft.com/en-us/learn/certifications/m365-security-administrator/
+
 Microsoft Learn:
 -------------------
 
