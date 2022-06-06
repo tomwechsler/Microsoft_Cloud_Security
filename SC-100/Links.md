@@ -35,3 +35,10 @@ More helpful links:
 -------------------
 
 https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra
+
+More helpful information directly from Microsoft, divided into the functional groups (Skills measured):
+-----------------------
+
+**Design a Zero Trust strategy and architecture**
+
+coming soon
