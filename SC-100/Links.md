@@ -41,4 +41,6 @@ More information directly from Microsoft, divided into the functional groups (Sk
 
 **Design a Zero Trust strategy and architecture:**
 
+**Evaluate Governance Risk Compliance (GRC) technical strategies and security operations strategies:**
+
 coming soon
