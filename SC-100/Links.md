@@ -43,4 +43,6 @@ More information directly from Microsoft, divided into the functional groups (Sk
 
 **Evaluate Governance Risk Compliance (GRC) technical strategies and security operations strategies:**
 
+**Design security for infrastructure:**
+
 coming soon
