@@ -45,4 +45,6 @@ More information directly from Microsoft, divided into the functional groups (Sk
 
 **Design security for infrastructure:**
 
+**Design a strategy for data and applications:**
+
 coming soon
