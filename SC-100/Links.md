@@ -105,8 +105,31 @@ https://docs.microsoft.com/en-us/azure/architecture/framework/security/design-id
 
 https://docs.microsoft.com/en-us/azure/architecture/framework/security/design-identity-authorization
 
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview
 
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/plan-conditional-access
 
+https://docs.microsoft.com/en-us/azure/architecture/guide/security/conditional-access-zero-trust
+
+https://docs.microsoft.com/en-us/azure/active-directory/roles/best-practices
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-delegate
+
+https://docs.microsoft.com/en-us/azure/active-directory/roles/groups-concept
+
+https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure
+
+https://docs.microsoft.com/en-us/security/compass/identity
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-delegate
+
+https://docs.microsoft.com/en-us/microsoft-identity-manager/pam/privileged-identity-management-for-active-directory-domain-services
+
+https://docs.microsoft.com/en-us/microsoft-identity-manager/pam/principles-of-operation
+
+https://docs.microsoft.com/en-us/azure/active-directory/roles/security-planning
 
 **Evaluate Governance Risk Compliance (GRC) technical strategies and security operations strategies:**
 
