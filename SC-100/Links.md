@@ -41,6 +41,35 @@ More information directly from Microsoft, divided into the functional groups (Sk
 
 **Design a Zero Trust strategy and architecture:**
 
+https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/secure/security-governance
+
+https://docs.microsoft.com/en-us/azure/architecture/framework/security/monitor-audit
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/security-control-logging-monitoring
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/log-audit
+
+https://docs.microsoft.com/en-us/azure/architecture/framework/security/design-network-connectivity
+
+https://docs.microsoft.com/en-us/azure/architecture/framework/security/design-network-segmentation
+
+https://docs.microsoft.com/en-us/security/zero-trust/deploy/infrastructure
+
+https://docs.microsoft.com/en-us/security/zero-trust/integrate/infrastructure
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/define-security-strategy
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/secure/business-resilience
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/technical-considerations/
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/
+
+
+
+
 **Evaluate Governance Risk Compliance (GRC) technical strategies and security operations strategies:**
 
 **Design security for infrastructure:**
