@@ -147,6 +147,40 @@ https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score-calcu
 
 https://docs.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls
 
+https://docs.microsoft.com/en-us/azure/governance/policy/overview
+
+https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage
+
+https://azure.microsoft.com/en-us/global-infrastructure/data-residency/
+
+https://azure.microsoft.com/en-us/resources/achieving-compliant-data-residency-and-security-with-azure/
+
+https://azure.microsoft.com/en-us/overview/trusted-cloud/privacy/
+
+https://azure.microsoft.com/en-us/blog/10-recommendations-for-cloud-privacy-and-security-with-ponemon-research/
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/introduction
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/update-regulatory-compliance-packages
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/regulatory-compliance-dashboard
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/secure-score-access-and-track
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/enhanced-security-features-overview
+
+https://docs.microsoft.com/en-us/azure/architecture/framework/security/design-governance-landing-zone
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/landing-zone-security
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/security
+
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/office-365-ti?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management?view=o365-worldwide
+
+https://techcommunity.microsoft.com/t5/security-compliance-and-identity/reduce-risk-across-your-environments-with-the-latest-threat-and/ba-p/2902691
+
 **Design security for infrastructure:**
 
 **Design a strategy for data and applications:**
