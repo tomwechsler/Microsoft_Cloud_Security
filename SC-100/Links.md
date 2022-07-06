@@ -67,6 +67,44 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/technic
 
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/
 
+https://docs.microsoft.com/en-us/azure/security/fundamentals/operational-checklist
+
+https://azure.microsoft.com/en-us/services/defender-for-cloud/#features
+
+https://docs.microsoft.com/en-us/azure/sentinel/overview
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/workflow-automation
+
+https://docs.microsoft.com/en-us/security/compass/incident-response-overview
+
+https://docs.microsoft.com/en-us/security/compass/incident-response-planning
+
+https://docs.microsoft.com/en-us/security/compass/incident-response-process
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/secure/security-operations
+
+https://docs.microsoft.com/en-us/security/compass/security-operations
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/manage-access
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/identity-access
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/identity-management-best-practices
+
+https://docs.microsoft.com/en-us/azure/active-directory/external-identities/external-identities-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-methods
+
+https://docs.microsoft.com/en-us/microsoft-365/education/deploy/design-credential-authentication-strategies
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/choose-ad-authn
+
+https://docs.microsoft.com/en-us/azure/architecture/framework/security/design-identity-authentication
+
+https://docs.microsoft.com/en-us/azure/architecture/framework/security/design-identity-authorization
+
 
 
 
