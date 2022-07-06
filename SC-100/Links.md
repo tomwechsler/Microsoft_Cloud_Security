@@ -19,17 +19,13 @@ https://docs.microsoft.com/en-us/learn/certifications/m365-security-administrato
 Microsoft Learn:
 -------------------
 
-https://docs.microsoft.com/en-us/learn/paths/manage-identity-access/?ns-enrollment-type=exam&ns-enrollment-id=exam.sc-100
+https://docs.microsoft.com/en-us/learn/paths/sc-100-design-zero-trust-strategy-architecture/
 
-https://docs.microsoft.com/en-us/learn/paths/implement-platform-protection/?ns-enrollment-type=exam&ns-enrollment-id=exam.sc-100
+https://docs.microsoft.com/en-us/learn/paths/sc-100-evaluate-governance-risk-compliance/
 
-https://docs.microsoft.com/en-us/learn/paths/secure-your-data-applications/?ns-enrollment-type=exam&ns-enrollment-id=exam.sc-100
+https://docs.microsoft.com/en-us/learn/paths/sc-100-design-security-for-infrastructure/
 
-https://docs.microsoft.com/en-us/learn/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/?ns-enrollment-type=exam&ns-enrollment-id=exam.sc-100
-
-https://docs.microsoft.com/en-us/learn/paths/sc-200-mitigate-threats-using-azure-defender/?ns-enrollment-type=exam&ns-enrollment-id=exam.sc-100
-
-https://docs.microsoft.com/en-us/learn/paths/sc-200-configure-azure-sentinel-environment/?ns-enrollment-type=exam&ns-enrollment-id=exam.sc-100
+https://docs.microsoft.com/en-us/learn/paths/sc-100-design-strategy-for-data-applications/
 
 More helpful links:
 -------------------
