@@ -235,4 +235,30 @@ https://docs.microsoft.com/en-us/azure/architecture/framework/services/compute/a
 
 **Design a strategy for data and applications:**
 
-coming soon
+https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-mitigations
+
+https://docs.microsoft.com/en-us/azure/architecture/framework/security/design-threat-model
+
+https://docs.microsoft.com/en-us/compliance/assurance/assurance-security-development-and-operation
+
+https://docs.microsoft.com/en-us/azure/security/develop/secure-design
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-app-service-introduction
+
+https://docs.microsoft.com/en-us/azure/architecture/framework/security/resilience
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/security-controls-v3-governance-strategy
+
+https://docs.microsoft.com/en-us/azure/architecture/data-guide/scenarios/securing-data-solutions
+
+https://docs.microsoft.com/en-us/azure/architecture/framework/security/design-storage
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/security-controls-v3-data-protection
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/encryption-overview
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/data-encryption-best-practices
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest
+
+https://docs.microsoft.com/en-us/azure/architecture/framework/security/design-storage-encryption
