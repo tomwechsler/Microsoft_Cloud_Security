@@ -133,6 +133,20 @@ https://docs.microsoft.com/en-us/azure/active-directory/roles/security-planning
 
 **Evaluate Governance Risk Compliance (GRC) technical strategies and security operations strategies:**
 
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/policy-compliance/regulatory-compliance
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/technical-capabilities
+
+https://docs.microsoft.com/en-us/security/compass/governance
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/regulatory-compliance-dashboard
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-manager?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score-calculation?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls
+
 **Design security for infrastructure:**
 
 **Design a strategy for data and applications:**
