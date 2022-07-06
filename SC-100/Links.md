@@ -183,6 +183,56 @@ https://techcommunity.microsoft.com/t5/security-compliance-and-identity/reduce-r
 
 **Design security for infrastructure:**
 
+https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/windows-security-baselines
+
+https://docs.microsoft.com/en-us/windows-server/security/security-and-assurance
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/minimum-requirements?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/mem/intune/protect/security-baselines
+
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory
+
+https://docs.microsoft.com/en-us/azure/active-directory-domain-services/secure-your-domain
+
+https://docs.microsoft.com/en-us/azure/key-vault/general/about-keys-secrets-certificates
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/management
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/cloud-services-security-baseline
+
+https://azure.microsoft.com/en-us/overview/iot/security/
+
+https://docs.microsoft.com/en-us/azure/azure-sql/database/security-overview?view=azuresql
+
+https://docs.microsoft.com/en-us/azure/azure-sql/database/security-best-practice?view=azuresql
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/sql-database-security-baseline
+
+https://docs.microsoft.com/en-us/azure/cosmos-db/database-security?tabs=sql-api
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/synapse-analytics-security-baseline
+
+https://docs.microsoft.com/en-us/azure/app-service/overview-security
+
+https://docs.microsoft.com/en-us/azure/app-service/security-recommendations
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/app-service-security-baseline
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/storage-security-baseline
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/container-instances-security-baseline
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/container-registry-security-baseline
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/aks-security-baseline
+
+https://docs.microsoft.com/en-us/azure/aks/concepts-security
+
+https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-cluster-security?tabs=azure-cli
+
+https://docs.microsoft.com/en-us/azure/architecture/framework/services/compute/azure-kubernetes-service/azure-kubernetes-service
+
 **Design a strategy for data and applications:**
 
 coming soon
