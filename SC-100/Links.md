@@ -32,6 +32,10 @@ More helpful links:
 
 https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra
 
+**YouTube Video from John Savill**
+
+https://youtu.be/2Qu5gQjNQh4
+
 More information directly from Microsoft, divided into the functional groups (Skills measured):
 -----------------------
 
