@@ -86,6 +86,22 @@ https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-pas
 
 https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/tenant-restrictions
 
+https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fundamentals-security-defaults
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/plan-conditional-access
+
+https://docs.microsoft.com/en-us/appcenter/general/configuring-aad-conditional-access
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-policy-approved-app-or-app-protection
+
+https://docs.microsoft.com/en-us/mem/intune/apps/app-protection-policy
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-session-lifetime
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-risk-policies
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-investigate-risk
+
 **Implement access management for applications**
 
 **Plan and implement identity governance in Azure AD**
