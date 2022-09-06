@@ -18,3 +18,10 @@ https://docs.microsoft.com/en-us/learn/paths/plan-implement-identity-governance-
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 -------------------
 
+**Implement identities in Azure AD**
+
+**Implement authentication and access management**
+
+**Implement access management for applications**
+
+**Plan and implement identity governance in Azure AD**
