@@ -134,4 +134,18 @@ https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list
 
 https://docs.microsoft.com/en-us/azure/active-directory/app-provisioning/user-provisioning
 
+https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-how-applications-are-added
+
+https://docs.microsoft.com/en-us/azure/active-directory/develop/app-objects-and-service-principals
+
+https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app
+
+https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent
+
+https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-add-app-roles-in-azure-ad-apps
+
+https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-enterprise-app-role-management
+
+https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/app-roles
+
 **Plan and implement identity governance in Azure AD**
