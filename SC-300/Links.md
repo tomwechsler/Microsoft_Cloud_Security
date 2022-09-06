@@ -66,7 +66,25 @@ https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-fed
 
 https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect
 
-**Implement authentication and access management**
+**Implement authentication and access management**  
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-userdevicesettings
+
+https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-identity-verification
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-methods
+
+https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-whfb-settings-ad
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-howitworks
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-password-ban-bad-on-premises-deploy
+
+https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/tenant-restrictions
 
 **Implement access management for applications**
 
