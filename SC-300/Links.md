@@ -149,3 +149,29 @@ https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory
 https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/app-roles
 
 **Plan and implement identity governance in Azure AD**
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-scenarios
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/terms-of-use
+
+https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/
+
+https://docs.microsoft.com/en-us/azure/active-directory/roles/security-emergency-access
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-policy-block-access
+
+https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-sign-ins
+
+https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-audit-logs
+
+https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory
+
+https://azure.microsoft.com/en-us/blog/use-azure-monitor-to-integrate-with-siem-tools/
+
+https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/howto-install-use-log-analytics-views
+
+https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-usage-insights-report
+
+https://docs.microsoft.com/en-us/azure/active-directory-domain-services/notifications
