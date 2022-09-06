@@ -102,6 +102,36 @@ https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howt
 
 https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-investigate-risk
 
-**Implement access management for applications**
+**Implement access management for applications**  
+
+https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent
+
+https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/manage-app-consent-policies
+
+https://docs.microsoft.com/en-us/defender-cloud-apps/discovered-apps
+
+https://docs.microsoft.com/en-us/defender-cloud-apps/tutorial-shadow-it
+
+https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/migrate-adfs-application-activity
+
+https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/cloud-app-security
+
+https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app
+
+https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/tenant-restrictions
+
+https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-audit-logs
+
+https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-usage-insights-report
+
+https://docs.microsoft.com/en-us/azure/active-directory/app-proxy/application-proxy
+
+https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/plan-an-application-integration
+
+https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/add-application-portal
+
+https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list
+
+https://docs.microsoft.com/en-us/azure/active-directory/app-provisioning/user-provisioning
 
 **Plan and implement identity governance in Azure AD**
