@@ -191,3 +191,8 @@ https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/howto
 https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-usage-insights-report
 
 https://docs.microsoft.com/en-us/azure/active-directory-domain-services/notifications
+
+More helpful links:
+-------------------
+
+https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra
