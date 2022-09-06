@@ -162,6 +162,22 @@ https://docs.microsoft.com/en-us/azure/active-directory/roles/security-emergency
 
 https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-policy-block-access
 
+https://docs.microsoft.com/en-us/azure/active-directory/governance/deploy-access-reviews
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/access-reviews-downloadable-review-history
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-access-reviews-create
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/self-access-review
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/create-access-review
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/perform-access-review
+
+https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-create-azure-ad-roles-and-resource-roles-review
+
+https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-perform-azure-ad-roles-and-resource-roles-review
+
 https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-sign-ins
 
 https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-audit-logs
