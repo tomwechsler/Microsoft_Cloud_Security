@@ -50,6 +50,22 @@ https://docs.microsoft.com/en-us/azure/active-directory-b2c/saml-service-provide
 
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/add-identity-provider
 
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-hybrid-identity
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-pta-quick-start
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sso-quick-start
+
+https://docs.microsoft.com/en-us/azure/active-directory/external-identities/identity-providers
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-fed
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect
+
 **Implement authentication and access management**
 
 **Implement access management for applications**
