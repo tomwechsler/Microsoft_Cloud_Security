@@ -26,3 +26,8 @@ https://docs.microsoft.com/en-us/learn/paths/sc-200-perform-threat-hunting-azure
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 -------------------
 
+**Mitigate threats using Microsoft 365 Defender:**
+
+**Mitigate threats using Microsoft Defender for Cloud:**
+
+**Mitigate threats using Microsoft Sentinel:**
