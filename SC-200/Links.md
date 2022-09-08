@@ -50,6 +50,39 @@ https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/inform
 
 https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management-policies
 
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/data-storage-privacy
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/data-retention-settings
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/configure-email-notifications
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/manage-alerts
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/advanced-features
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-attack-surface-reduction
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/attack-surface-reduction
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender/custom-detections-overview
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender/custom-detection-rules
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/review-alerts
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/respond-machine-alerts
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/automated-investigations
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/configure-automated-investigations-remediation
+
+https://www.microsoft.com/security/blog/2019/07/02/microsofts-threat-vulnerability-management-now-helps-thousands-of-customers-to-discover-prioritize-and-remediate-vulnerabilities-in-real-time/
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-vulnerability-management/defender-vulnerability-management
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-vulnerability-management/tvm-remediation
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/indicator-manage
 
 **Mitigate threats using Microsoft Defender for Cloud:**
 
