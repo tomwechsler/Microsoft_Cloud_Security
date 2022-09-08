@@ -202,6 +202,28 @@ https://docs.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-tip
 
 https://docs.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-custom-logs
 
+https://docs.microsoft.com/en-us/azure/sentinel/detect-threats-custom#define-the-rule-query-logic-and-configure-settings
+
+https://docs.microsoft.com/en-us/azure/sentinel/detect-threats-custom#create-a-custom-analytics-rule-with-a-scheduled-query
+
+https://docs.microsoft.com/en-us/azure/sentinel/create-incidents-from-alerts
+
+https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-the-connectors-grand-cef-syslog-direct-agent/ba-p/803891
+
+https://docs.microsoft.com/en-us/azure/sentinel/detect-threats-custom
+
+https://docs.microsoft.com/en-us/azure/sentinel/tutorial-respond-threats-playbook
+
+https://docs.microsoft.com/en-us/azure/sentinel/automate-responses-with-playbooks
+
+https://docs.microsoft.com/en-us/azure/sentinel/overview
+
+https://docs.microsoft.com/en-us/azure/sentinel/investigate-cases
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/tutorial-security-incident
+
+https://docs.microsoft.com/en-us/azure/sentinel/identify-threats-with-entity-behavior-analytics
+
 
 
 
