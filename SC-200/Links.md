@@ -84,6 +84,40 @@ https://docs.microsoft.com/en-us/microsoft-365/security/defender-vulnerability-m
 
 https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/indicator-manage
 
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-remediate-unblock
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/configure-conditional-access
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-remediate-unblock
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/implement-security-recommendations
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/identity-management-best-practices
+
+https://docs.microsoft.com/en-us/training/modules/protect-identities-with-aad-idp/3-detect-risks-with-policies
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-notifications
+
+https://docs.microsoft.com/en-us/training/modules/perform-evidence-entities-investigations-microsoft-defender-for-endpoint/5-investigate-domain
+
+https://docs.microsoft.com/en-us/defender-for-identity/technical-faq
+
+https://docs.microsoft.com/en-us/defender-cloud-apps/investigate
+
+https://docs.microsoft.com/en-us/defender-cloud-apps/managing-alerts
+
+https://docs.microsoft.com/en-us/defender-cloud-apps/built-in-reports
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender/manage-incidents
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender/m365d-action-center
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender/m365d-autoir-actions
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-overview
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/advanced-hunting-overview
+
 **Mitigate threats using Microsoft Defender for Cloud:**
 
 **Mitigate threats using Microsoft Sentinel:**
