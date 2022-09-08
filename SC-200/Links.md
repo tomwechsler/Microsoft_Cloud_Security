@@ -172,4 +172,40 @@ https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-key-vault
 
 https://azure.microsoft.com/en-in/blog/how-azure-security-center-helps-analyze-attacks-using-investigation-and-log-search/
 
-**Mitigate threats using Microsoft Sentinel:**
+**Mitigate threats using Microsoft Sentinel:**  
+
+https://docs.microsoft.com/en-us/training/modules/create-manage-azure-sentinel-workspaces/2-plan-for-azure-sentinel-workspace
+
+https://docs.microsoft.com/en-us/azure/sentinel/roles
+
+https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/move-your-microsoft-sentinel-logs-to-long-term-storage-with-ease/ba-p/1407153
+
+https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-azure-data-explorer-for-long-term-retention-of-microsoft/ba-p/1883947
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/sentinel-security-baseline
+
+https://docs.microsoft.com/en-us/azure/sentinel/connect-data-sources
+
+https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard
+
+https://docs.microsoft.com/en-us/training/modules/connect-data-to-azure-sentinel-with-data-connectors/
+
+https://docs.microsoft.com/en-us/azure/sentinel/connect-syslog
+
+https://docs.microsoft.com/en-us/azure/sentinel/connect-common-event-format
+
+https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/best-practices-for-common-event-format-cef-collection-in-azure/ba-p/969990
+
+https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference
+
+https://docs.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-tip
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-custom-logs
+
+
+
+
+
+
+
+
