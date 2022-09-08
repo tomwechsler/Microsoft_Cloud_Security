@@ -160,4 +160,16 @@ https://docs.microsoft.com/en-us/azure/defender-for-cloud/implement-security-rec
 
 https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-automation-alert
 
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/alerts-overview
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/threat-detection
+
+https://azure.microsoft.com/en-us/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-key-vault-introduction
+
+https://azure.microsoft.com/en-in/blog/how-azure-security-center-helps-analyze-attacks-using-investigation-and-log-search/
+
 **Mitigate threats using Microsoft Sentinel:**
