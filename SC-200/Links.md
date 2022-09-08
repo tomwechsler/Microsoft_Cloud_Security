@@ -118,6 +118,46 @@ https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-huntin
 
 https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/advanced-hunting-overview
 
-**Mitigate threats using Microsoft Defender for Cloud:**
+**Mitigate threats using Microsoft Defender for Cloud:**  
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/enable-enhanced-security
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/user-roles
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/rbac
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/data-storage-privacy
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction
+
+https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/categorizing-microsoft-alerts-across-data-sources-in-azure/ba-p/1503367
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/azure-server-management/onboarding-automation
+
+https://docs.microsoft.com/en-us/training/modules/connect-non-azure-machines-to-azure-defender/3-connect-non-azure-machines
+
+https://docs.microsoft.com/en-us/training/modules/connect-non-azure-machines-to-azure-defender/4-connect-aws-accounts
+
+https://docs.microsoft.com/en-us/training/modules/connect-non-azure-machines-to-azure-defender/5-connect-gcp-accounts
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/enable-data-collection
+
+https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/validating-microsoft-defender-for-dns-alerts/ba-p/2227845
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/alert-validation
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/configure-email-notifications
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/alerts-suppression-rules
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/manage-suppression-rules
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/workflow-automation
+
+https://docs.microsoft.com/en-us/defender-for-identity/playbook-reconnaissance
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/implement-security-recommendations
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-automation-alert
 
 **Mitigate threats using Microsoft Sentinel:**
