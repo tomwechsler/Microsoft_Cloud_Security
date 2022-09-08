@@ -224,10 +224,24 @@ https://docs.microsoft.com/en-us/azure/defender-for-cloud/tutorial-security-inci
 
 https://docs.microsoft.com/en-us/azure/sentinel/identify-threats-with-entity-behavior-analytics
 
+https://docs.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-overview
 
+https://docs.microsoft.com/en-us/azure/sentinel/get-visibility
 
+https://docs.microsoft.com/en-us/training/modules/query-data-sentinel/2-exercise-setup
 
+https://docs.microsoft.com/en-us/azure/sentinel/monitor-your-data
 
+https://docs.microsoft.com/en-us/azure/sentinel/get-visibility
 
+https://docs.microsoft.com/en-us/azure/sentinel/manage-soc-with-incident-metrics
 
+https://docs.microsoft.com/en-us/training/modules/hunt-threats-sentinel/3-query-management-creation
 
+https://docs.microsoft.com/en-us/azure/sentinel/hunting-with-rest-api
+
+https://docs.microsoft.com/en-us/azure/sentinel/notebooks
+
+https://docs.microsoft.com/en-us/training/modules/perform-threat-hunting-sentinel-with-notebooks/
+
+https://docs.microsoft.com/en-us/azure/sentinel/bookmarks
