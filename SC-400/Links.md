@@ -44,6 +44,38 @@ https://docs.microsoft.com/en-us/microsoft-365/compliance/classifier-learn-about
 
 https://docs.microsoft.com/en-us/microsoft-365/compliance/classifier-how-to-retrain-content-explorer
 
+https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-with-sensitivity-labels
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/create-sensitivity-labels
+
+https://docs.microsoft.com/en-us/training/modules/m365-compliance-information-protect-information/configure-sensitivity-label-policies
+
+https://docs.microsoft.com/en-us/training/modules/apply-manage-sensitivity-labels/2-apply-sensitivity-labels-to-microsoft-teams
+
+https://docs.microsoft.com/en-us/training/modules/m365-compliance-information-protect-information/configure-auto-labeling-policies
+
+https://docs.microsoft.com/en-us/training/modules/apply-manage-sensitivity-labels/6-monitor-label-usage-using-label-analytics
+
+https://docs.microsoft.com/en-us/azure/information-protection/deploy-aip-scanner
+
+https://docs.microsoft.com/en-us/training/modules/apply-manage-sensitivity-labels/4-configure-on-premises-labeling-for-unified-labeling-scanner
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels
+
+https://docs.microsoft.com/en-us/training/modules/apply-manage-sensitivity-labels/5-apply-protections-restrictions-to-email-files
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/encryption-sensitivity-labels
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/ome
+
+https://docs.microsoft.com/en-us/training/modules/deploy-message-encryption-microsoft-365/2-implement-microsoft-purview-message-encryption
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/ome-advanced-message-encryption
+
+https://docs.microsoft.com/en-us/training/modules/deploy-message-encryption-microsoft-365/3-implement-microsoft-purview-advanced-message-encryption
+
+https://techcommunity.microsoft.com/t5/microsoft-365/advanced-office-365-message-encryption-ome-usage-example-with-a/m-p/2812341
+
 **Implement data loss prevention:**  
 
 **Implement information governance:**   
