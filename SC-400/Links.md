@@ -78,6 +78,44 @@ https://techcommunity.microsoft.com/t5/microsoft-365/advanced-office-365-message
 
 **Implement data loss prevention:**  
 
+https://docs.microsoft.com/en-us/microsoft-365/compliance/data-loss-prevention-policies
+
+https://docs.microsoft.com/en-us/training/modules/manage-data-loss-prevention-polices/2-configure-data-loss-prevention-for-policy-precedence
+
+https://docs.microsoft.com/en-us/exchange/policy-and-compliance/data-loss-prevention/data-loss-prevention
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/create-test-tune-dlp-policy
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/dlp-microsoft-teams
+
+https://docs.microsoft.com/en-us/defender-cloud-apps/azip-integration
+
+https://docs.microsoft.com/en-us/training/modules/create-configure-data-loss-prevention-policies/3-integrate-data-loss-prevention-with-microsoft-cloud-app-security
+
+https://docs.microsoft.com/en-us/defender-cloud-apps/access-policy-aad
+
+https://docs.microsoft.com/en-us/training/modules/create-configure-data-loss-prevention-policies/4-configure-file-policies-microsoft-cloud-app-security
+
+https://docs.microsoft.com/en-us/training/modules/manage-data-loss-prevention-polices/3-implement-data-loss-prevention-policies-test-mode
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/data-loss-prevention-policies
+
+https://www.microsoft.com/security/blog/2020/11/10/extend-data-loss-prevention-to-your-devices-with-microsoft-endpoint-data-loss-prevention-now-generally-available/
+
+https://docs.microsoft.com/en-us/training/modules/m365-compliance-information-prevent-data-loss/prepare-endpoint-dlp
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/endpoint-dlp-using
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/endpoint-dlp-learn-about
+
+https://docs.microsoft.com/en-us/training/modules/manage-data-loss-prevention-polices/7-manage-respond-data-loss-prevention-policy-violations
+
+https://docs.microsoft.com/en-us/training/modules/manage-data-loss-prevention-polices/5-review-analyze-data-loss-prevention-reports
+
+https://docs.microsoft.com/en-us/training/modules/manage-data-loss-prevention-polices/6-manage-permissions-for-data-loss-prevention-reports
+
+https://docs.microsoft.com/en-us/training/modules/create-configure-data-loss-prevention-policies/5-manage-data-loss-prevention-violations-microsoft-cloud-app-security
+
 **Implement information governance:**   
 
 More helpful links:
