@@ -16,6 +16,17 @@ https://docs.microsoft.com/en-us/learn/paths/implement-information-governance/
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 -------------------
 
+**Implement information protection:**  
+
+**Implement data loss prevention:**  
+
+**Implement information governance:**   
+
+More helpful links:
+-------------------
+
+https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra
+
 https://docs.microsoft.com/en-us/cloud-app-security/getting-started-with-cloud-app-security
 
 https://docs.microsoft.com/en-us/cloud-app-security/data-protection-policies
