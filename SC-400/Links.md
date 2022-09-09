@@ -18,6 +18,32 @@ More information directly from Microsoft, divided into the functional groups (Sk
 
 **Implement information protection:**  
 
+https://docs.microsoft.com/en-us/training/modules/m365-compliance-information-classify-data/using-sensitive-information-types
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/create-a-custom-sensitive-information-type
+
+https://docs.microsoft.com/en-us/training/modules/create-manage-sensitive-information-types/3-create-manage-custom
+
+https://docs.microsoft.com/en-us/training/modules/create-manage-sensitive-information-types/4-describe-custom-with-exact-data-match
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/document-fingerprinting
+
+https://docs.microsoft.com/en-us/training/modules/create-manage-sensitive-information-types/5-implement-document-fingerprint
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/create-a-keyword-dictionary
+
+https://docs.microsoft.com/en-us/training/modules/create-manage-sensitive-information-types/6-create-keyword-dictionary
+
+https://docs.microsoft.com/en-us/training/modules/m365-compliance-information-classify-data/using-trainable-classifiers
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/classifier-get-started-with
+
+https://docs.microsoft.com/en-us/training/modules/m365-compliance-information-classify-data/using-trainable-classifiers
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/classifier-learn-about?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/classifier-how-to-retrain-content-explorer
+
 **Implement data loss prevention:**  
 
 **Implement information governance:**   
