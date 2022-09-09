@@ -152,6 +152,22 @@ https://docs.microsoft.com/en-us/training/modules/manage-data-retention-microsof
 
 https://docs.microsoft.com/en-us/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes
 
+https://docs.microsoft.com/en-us/training/modules/m365-compliance-information-manage-records/configure-retention-labels
+
+https://docs.microsoft.com/en-us/training/modules/m365-compliance-information-manage-records/import-file-plan
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/file-plan-manager?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/file-plan-manager
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/create-apply-retention-labels
+
+https://support.microsoft.com/en-us/office/configuring-in-place-records-management-7707a878-780c-4be6-9cb0-9718ecde050a
+
+https://docs.microsoft.com/en-us/training/modules/m365-compliance-information-manage-records/configure-event-driven-retention
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/disposition
+
 More helpful links:
 -------------------
 
