@@ -13,7 +13,7 @@ https://docs.microsoft.com/en-us/learn/paths/implement-data-loss-prevention/
 
 https://docs.microsoft.com/en-us/learn/paths/implement-information-governance/
 
-More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
+More information directly from Microsoft, divided into the functional groups (Skills measured)!
 -------------------
 
 **Implement information protection:**  
