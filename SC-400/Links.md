@@ -118,6 +118,40 @@ https://docs.microsoft.com/en-us/training/modules/create-configure-data-loss-pre
 
 **Implement information governance:**   
 
+https://docs.microsoft.com/en-us/training/modules/m365-compliance-information-govern-information/configure-retention-labels
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/create-apply-retention-labels
+
+https://docs.microsoft.com/en-us/training/modules/m365-compliance-information-govern-information/configure-manual-retention-policies
+
+https://docs.microsoft.com/en-us/training/modules/m365-compliance-information-govern-information/configure-auto-apply-retention-policies
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/apply-retention-labels-automatically
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/retention-policies-sharepoint
+
+https://docs.microsoft.com/en-us/training/modules/manage-data-retention-microsoft-365/3-explain-retention-sharepoint-online-onedrive-for-business
+
+https://docs.microsoft.com/en-us/microsoftteams/retention-policies#create-and-manage-retention-policies-for-teams
+
+https://docs.microsoft.com/en-us/training/modules/manage-data-retention-microsoft-365/4-explain-retention-teams
+
+https://docs.microsoft.com/en-us/training/modules/manage-data-retention-microsoft-365/5-recover-content-microsoft-teams-sharepoint-onedrive
+
+https://docs.microsoft.com/en-us/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages
+
+https://docs.microsoft.com/en-us/training/modules/manage-data-retention-microsoft-365/8-recover-content-microsoft-exchange
+
+https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies
+
+https://docs.microsoft.com/en-us/training/modules/manage-data-retention-microsoft-365/6-implement-retention-policies-tags-microsoft-exchange
+
+https://docs.microsoft.com/en-us/exchange/policy-and-compliance/holds/holds?view=exchserver-2019
+
+https://docs.microsoft.com/en-us/training/modules/manage-data-retention-microsoft-365/7-apply-mailbox-holds-microsoft-exchange
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes
+
 More helpful links:
 -------------------
 
