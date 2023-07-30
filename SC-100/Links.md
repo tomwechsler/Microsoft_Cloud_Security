@@ -30,7 +30,11 @@ https://docs.microsoft.com/en-us/learn/paths/sc-100-design-strategy-for-data-app
 More helpful links:
 -------------------
 
+Microsoft Cybersecurity Reference Architectures  
 https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra
+
+Microsoft Cloud Adoption Framework für Azure  
+https://learn.microsoft.com/de-de/azure/cloud-adoption-framework/
 
 **YouTube Video from John Savill**
 
