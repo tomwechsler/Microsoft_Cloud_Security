@@ -33,8 +33,8 @@ More helpful links:
 Microsoft Cybersecurity Reference Architectures  
 https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra
 
-Microsoft Cloud Adoption Framework für Azure  
-https://learn.microsoft.com/de-de/azure/cloud-adoption-framework/
+Microsoft Cloud Adoption Framework for Azure  
+https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/
 
 **YouTube Video from John Savill**
 
