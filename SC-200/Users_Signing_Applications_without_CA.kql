@@ -1,0 +1,7 @@
+SigninLogs
+| project AppDisplayName, UserDisplayName, ConditionalAccessStatus, Status, ResultType
+| where ResultType == 0 // sign-in was successful
+| where ConditionalAccessStatus == "notApplied"
+| where Status.additionalDetails != "MFA requirement satisfied by claim in the token" and Status.additionalDetails != "MFA requirement skipped due to remembered device" // Sign-in was not strong auth
+| summarize Count = count() by UserDisplayName, AppDisplayName
+| order by Count
