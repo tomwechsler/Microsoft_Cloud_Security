@@ -3,7 +3,7 @@ All about Microsoft Cloud Security and the various certifications!
 
 ## An overview of the certifications
 
-| Certification | Certifications description             |
+| Certification | Certification description             |
 |-----|-------------------------------------------|
 | SC-900 | Microsoft Certified: Security, Compliance, and Identity Fundamentals |
 | SC-200 | Microsoft Certified: Security Operations Analyst Associate |
