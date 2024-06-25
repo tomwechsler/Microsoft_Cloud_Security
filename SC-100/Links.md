@@ -5,6 +5,10 @@ https://docs.microsoft.com/en-us/learn/certifications/cybersecurity-architect-ex
 
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWVbXN
 
+https://learn.microsoft.com/en-us/credentials/certifications/exam-scoring-reports#scores-needed-to-pass-exams  
+
+https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-sc-100-design-solutions-that-align-with-security-best-practices-and-priorities  
+
 Completion of a prerequisite exam (otherwise you will not receive the certificate for the SC-100):
 --------------------------
 
@@ -19,13 +23,13 @@ https://docs.microsoft.com/en-us/learn/certifications/m365-security-administrato
 Microsoft Learn:
 -------------------
 
-https://docs.microsoft.com/en-us/learn/paths/sc-100-design-zero-trust-strategy-architecture/
+https://learn.microsoft.com/en-us/training/paths/sc-100-design-solutions-best-practices-priorities/
 
-https://docs.microsoft.com/en-us/learn/paths/sc-100-evaluate-governance-risk-compliance/
+https://learn.microsoft.com/en-us/training/paths/sc-100-design-operations-identity-compliance-capabilities/
 
-https://docs.microsoft.com/en-us/learn/paths/sc-100-design-security-for-infrastructure/
+https://learn.microsoft.com/en-us/training/paths/sc-100-design-security-solutions-applications-data/
 
-https://docs.microsoft.com/en-us/learn/paths/sc-100-design-strategy-for-data-applications/
+https://learn.microsoft.com/en-us/training/paths/sc-100-design-security-solutions-infrastructure/
 
 More helpful links:
 -------------------
@@ -43,7 +47,7 @@ https://youtu.be/2Qu5gQjNQh4
 More information directly from Microsoft, divided into the functional groups (Skills measured):
 -----------------------
 
-**Design a Zero Trust strategy and architecture:**
+**Design solutions that align with security best practices and priorities:**
 
 https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra
 
@@ -135,7 +139,7 @@ https://docs.microsoft.com/en-us/microsoft-identity-manager/pam/principles-of-op
 
 https://docs.microsoft.com/en-us/azure/active-directory/roles/security-planning
 
-**Evaluate Governance Risk Compliance (GRC) technical strategies and security operations strategies:**
+**Design security operations, identity, and compliance capabilities:**
 
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/policy-compliance/regulatory-compliance
 
@@ -185,7 +189,7 @@ https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-managemen
 
 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/reduce-risk-across-your-environments-with-the-latest-threat-and/ba-p/2902691
 
-**Design security for infrastructure:**
+**Design security solutions for infrastructure:**
 
 https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/windows-security-baselines
 
@@ -237,7 +241,7 @@ https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-cluster-secur
 
 https://docs.microsoft.com/en-us/azure/architecture/framework/services/compute/azure-kubernetes-service/azure-kubernetes-service
 
-**Design a strategy for data and applications:**
+**Design security solutions for applications and data:**
 
 https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-mitigations
 
