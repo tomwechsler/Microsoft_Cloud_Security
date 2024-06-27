@@ -1,4 +1,4 @@
-Microsoft Certified: Cybersecurity Architect Expert
+Microsoft Certified: Cybersecurity Architect Expert (SC-100)
 -------------------
 
 https://docs.microsoft.com/en-us/learn/certifications/cybersecurity-architect-expert/
